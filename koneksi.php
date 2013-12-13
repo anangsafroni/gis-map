@@ -1,4 +1,4 @@
 <?php
-mysql_connect("localhost","root","mysql");
-mysql_select_db("google-maps");
+mysql_connect("localhost","root","banaran");
+mysql_select_db("gismap");
 ?>
